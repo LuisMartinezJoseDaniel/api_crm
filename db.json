@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Daniel",
+      "empresa": "ITO",
+      "email": "correo@gmail.com",
+      "telefono": "97675123",
+      "notas": "Notas",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos",
+      "empresa": "ITO",
+      "email": "carlos@gmail.com",
+      "telefono": "97675123",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Comida",
+      "empresa": "ITO",
+      "email": "correo@gmail.com",
+      "telefono": "97675123",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "Udemy",
+      "email": "correo@gmail.coom",
+      "telefono": "97675123",
+      "notas": "as",
+      "id": 4
+    }
+  ]
+}
